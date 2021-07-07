@@ -40,10 +40,10 @@
 		give(recharge_amount)
 
 //Skrellian energy shield.
-/* Commented pending upstream merge.
+/*Commented out pending upstream merge.
 /obj/item/shield/energy/skrell
 	name = "skrellian combat shield"
 	desc = "An alien shield capable of stopping most projectile and melee attacks. It can be retracted, expanded, and stored anywhere."
 	icon = 'mods/species/skrell/icons/gear/e_shield.dmi'
 	icon_state = "skrellshield"
-	shield_light_color = "#BF7EFC"*/
+	shield_light_color = "#bf7efc"*/

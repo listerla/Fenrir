@@ -1,0 +1,4 @@
+author: listerla
+delete-after: true
+changes:
+  - rscadd: Added genemods to character setup.

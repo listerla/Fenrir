@@ -26,7 +26,7 @@
 		in public. Although they are less wealthy than the Qerr-Katish, their usefulness allows them much comfort and status in skrellian society. \
 		Their families are generally made up of two or three bondings, frequently from different partners. Skrell of this caste often wear clothing made \
 		from the same materials as the Qerr-katish yet simplified, white shirts and black pants with possible jewellery for decoration. \
-		They have shorter headtails.."
+		They have shorter headtails."
 	economic_power = 1.3
 
 /decl/cultural_info/culture/skrell/caste_kanin
